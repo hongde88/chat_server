@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb://admin:admin123@ds235658.mlab.com:35658/duc-db"
+}
